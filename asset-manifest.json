@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.0035d59d.css",
-    "main.js": "/react-website/static/js/main.805ca03b.js",
-    "static/js/787.73b85c3e.chunk.js": "/react-website/static/js/787.73b85c3e.chunk.js",
-    "static/media/c1.jpg": "/react-website/static/media/c1.562e143e72fadcf537b1.jpg",
-    "static/media/img2.jpg": "/react-website/static/media/img2.e61d6bc0bf73d200f871.jpg",
-    "static/media/img6.jpg": "/react-website/static/media/img6.040f47f41d734982fed6.jpg",
-    "static/media/img5.jpg": "/react-website/static/media/img5.f0f0c7a8a2dabe657053.jpg",
-    "static/media/img3.jpg": "/react-website/static/media/img3.9b48058e7fa62d6d8599.jpg",
-    "static/media/img4.jpg": "/react-website/static/media/img4.79d8df08ace2f981a188.jpg",
-    "static/media/img1.jpg": "/react-website/static/media/img1.c84fbb92f28febcd6e95.jpg",
-    "static/media/c3.jpg": "/react-website/static/media/c3.c70f5c35a70782c2aae1.jpg",
-    "static/media/c2.jpg": "/react-website/static/media/c2.295f9c2982e3f8ccd7ff.jpg",
-    "static/media/jungle.jpg": "/react-website/static/media/jungle.80067eee173e4457e92a.jpg",
-    "static/media/delivery-coffee.jpg": "/react-website/static/media/delivery-coffee.a334cfc6906aa1d4c1a9.jpg",
-    "static/media/logo.svg": "/react-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-website/index.html",
-    "main.0035d59d.css.map": "/react-website/static/css/main.0035d59d.css.map",
-    "main.805ca03b.js.map": "/react-website/static/js/main.805ca03b.js.map",
-    "787.73b85c3e.chunk.js.map": "/react-website/static/js/787.73b85c3e.chunk.js.map"
+    "main.css": "/react-coffee-website/static/css/main.0035d59d.css",
+    "main.js": "/react-coffee-website/static/js/main.3289f521.js",
+    "static/js/787.73b85c3e.chunk.js": "/react-coffee-website/static/js/787.73b85c3e.chunk.js",
+    "static/media/c1.jpg": "/react-coffee-website/static/media/c1.562e143e72fadcf537b1.jpg",
+    "static/media/img2.jpg": "/react-coffee-website/static/media/img2.e61d6bc0bf73d200f871.jpg",
+    "static/media/img6.jpg": "/react-coffee-website/static/media/img6.040f47f41d734982fed6.jpg",
+    "static/media/img5.jpg": "/react-coffee-website/static/media/img5.f0f0c7a8a2dabe657053.jpg",
+    "static/media/img3.jpg": "/react-coffee-website/static/media/img3.9b48058e7fa62d6d8599.jpg",
+    "static/media/img4.jpg": "/react-coffee-website/static/media/img4.79d8df08ace2f981a188.jpg",
+    "static/media/img1.jpg": "/react-coffee-website/static/media/img1.c84fbb92f28febcd6e95.jpg",
+    "static/media/c3.jpg": "/react-coffee-website/static/media/c3.c70f5c35a70782c2aae1.jpg",
+    "static/media/c2.jpg": "/react-coffee-website/static/media/c2.295f9c2982e3f8ccd7ff.jpg",
+    "static/media/jungle.jpg": "/react-coffee-website/static/media/jungle.80067eee173e4457e92a.jpg",
+    "static/media/delivery-coffee.jpg": "/react-coffee-website/static/media/delivery-coffee.a334cfc6906aa1d4c1a9.jpg",
+    "static/media/logo.svg": "/react-coffee-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-coffee-website/index.html",
+    "main.0035d59d.css.map": "/react-coffee-website/static/css/main.0035d59d.css.map",
+    "main.3289f521.js.map": "/react-coffee-website/static/js/main.3289f521.js.map",
+    "787.73b85c3e.chunk.js.map": "/react-coffee-website/static/js/787.73b85c3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0035d59d.css",
-    "static/js/main.805ca03b.js"
+    "static/js/main.3289f521.js"
   ]
 }
